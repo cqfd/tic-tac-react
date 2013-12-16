@@ -1,0 +1,13 @@
+{"version":3,
+ "file":
+ "/Users/alan/study/clojure/tic-tac-react/public/js/tic_tac_react/core.js",
+ "sources":["core.cljs"],
+ "lineCount":43,
+ "mappings":
+ ";AAAA;;;;;;;;;AAMA,uBAAA,vBAACA,0DAEC,kBAAA,PAAKC,OACH,AAAA,GAAA,OAAAC;CAAA;CAAA,AAAA,AAAA;;;;;;;;;;AAAA,AAAA,AAAAA,2CAAA;AAAA,AAAA,AAAAA,8CAAA;AAAA,AAAA,AAAAA,mDAAA,WAAAC,mBAAAC,qBAAAC,mBAAA,AAAA,OAAAC,2BAAAF,qBAAA;;AAAA,AAAA,AAAA,AAAA,AAAAF,sDAAA;AAAA,AAAA,AAAA,AAAAA,qEAAA,WAEYQ,MAAKC;AAFjB,AAAA,gBAAA,KAAA,jBAEYD,iBACR,OAAAE,wBAAA,KACS,AAAAC,0BAAA,KAAA;;AAJb,AAAA,AAAA,AAAAX,oEAAA,WAAAK;AAAA,AAAA,IAAAA,aAAA,KAAA,AAAAC;;AAAA,AAAA,AAAA,AAAAN,6EAAA,WAAAK,OAAAC;4DADGP,5DACH,AAAA,IAAAM,aAAA,KAAA,AAAA,YAAAL,uCAAAM;;uDADGP,2DAAAA,lHACH,AAAAQ,iCAAA,gCAAAD,WAAA,AAAA,YAAAN,oCAAAM;;AAAAN;sCADGD,tCACH,YAAAC,gCAAA;GAKFY",
+ "names":
+ ["om.core/root", "state", "tic-tac-react.core/t14488",
+  "this__3948__auto__", "writer__3949__auto__", "opt__3950__auto__",
+  "cljs.core/-write", "_14490", "meta14489",
+  "tic-tac-react.core/->t14488", "this", "_", "React/DOM.div",
+  "React/DOM.label", "js/document.body"]}
